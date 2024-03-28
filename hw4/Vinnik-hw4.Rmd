@@ -1,0 +1,10 @@
+---
+title: "22M04Vinnik-hw4"
+author: "Vinnik Ekaterina"
+date: "2024-03-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
